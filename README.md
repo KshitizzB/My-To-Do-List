@@ -6,7 +6,7 @@ This is a webpage which helps to make record of our daily tasks.
 
   Features:
 * No space required for storage
-* 24 hr avaiable 
+* 24 hr avaiable online
 * Easy UI
 * Responsive ( works in any gadget)
 
